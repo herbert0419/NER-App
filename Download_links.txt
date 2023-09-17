@@ -1,0 +1,6 @@
+1. Tesseract
+https://digi.bib.uni-mannheim.de/tesseract/
+https://tesseract-ocr.github.io/tessdoc/Installation.html
+
+2. scaCy
+https://spacy.io/usage
